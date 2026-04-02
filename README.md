@@ -9,3 +9,6 @@ Proyecto de práctica donde se realiza:
 
 Herramientas utilizadas:
 - Cisco Packet Tracer
+
+
+VIDEO EXPLICATIVO EN ARCHIVO ZIP
